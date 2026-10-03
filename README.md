@@ -1,18 +1,50 @@
-SAURUS × RIAS STORE — V1
+# 🛍️ yeat'atk store
 
-1. Abra a pasta no VS Code.
-2. Edite products.js para adicionar/alterar produtos.
-3. Troque DISCORD_INVITE pelo convite real do servidor.
-4. Coloque os banners em assets/produtos/.
-5. Abra index.html no navegador ou use Live Server.
+![yeat'atk store Banner](https://i.ibb.co/4nsj1pRp/Shiba-and-woman-posing-2-K-20261003175506.jpg)
 
-Produtos: copie um objeto dentro de products.js.
-Campos: id, category, title, description, banner, tags e price.
+**SAURUS × RIAS** — Serviços digitais personalizados feitos sob medida.
 
-Os espaços dos personagens na hero são intencionais: substitua depois pelos PNGs transparentes do Saurinhos e da Rias.
+Site/loja com catálogo interativo de produtos digitais: texturas Minecraft, sites, bots de Discord e projetos custom.
 
+---
 
-PERSONAGENS
-assets/personagens/rias-saurinhos.png = Rias abraçando Saurinhos no topo.
-assets/personagens/rias-section.png = Rias na seção SAURUS x RIAS.
-Os PNGs devem ser transparentes. Se ainda não existirem, o layout continua funcionando.
+## ✨ Features
+
+### 🛒 Catálogo de Produtos
+- Grid dinâmico com filtros por categoria
+- Cards com banner, descrição e tags
+- Modal detalhado ao clicar no produto
+- Preços sob consulta (contato via Discord)
+
+### 🎨 Design Moderno
+- Visual dark com animações suaves
+- Cursor glow e efeitos de noise
+- Tipografia UnifrakturCook + Inter
+- Layout responsivo e reveal on scroll
+
+### 🦕 Tema SAURUS × RIAS
+- Personagens Rias e Saurinhos integrados no hero e seção sobre
+- Identidade visual exclusiva
+- Status ONLINE no header
+
+### 🔗 Integração Discord
+- Botão de compra redireciona para o servidor Discord
+- Conversas personalizadas para cada projeto
+
+---
+
+## 🛠️ Tecnologias
+
+- **HTML5** + **CSS3** (puro)
+- **JavaScript** (vanilla)
+- Google Fonts (UnifrakturCook + Inter)
+- Deploy pronto para Surge / GitHub Pages
+
+---
+
+## 📦 Instalação / Uso Local
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Marcos01MK/yeat-atk-store.git
+cd yeat-atk-store
