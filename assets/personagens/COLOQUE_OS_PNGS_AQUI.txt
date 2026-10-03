@@ -1,0 +1,4 @@
+Coloque aqui os PNGs personalizados:
+
+rias-saurinhos.png  -> imagem única da Rias abraçando o Saurinhos (destaque do topo)
+rias-section.png    -> PNG da Rias para a seção SAURUS × RIAS
