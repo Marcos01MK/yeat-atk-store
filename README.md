@@ -2,7 +2,7 @@
 
 ![yeat'atk store Banner](https://i.ibb.co/4nsj1pRp/Shiba-and-woman-posing-2-K-20261003175506.jpg)
 
-**SAURUS × RIAS** — Serviços digitais personalizados feitos sob medida.
+**SAURUS × RIAS (Sam o atk)** — Serviços digitais personalizados feitos sob medida.
 
 Site/loja com catálogo interativo de produtos digitais: texturas Minecraft, sites, bots de Discord e projetos custom.
 
